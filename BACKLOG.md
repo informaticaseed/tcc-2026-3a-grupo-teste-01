@@ -1,4 +1,4 @@
-# Backlog do MVP — [Nome do Grupo]
+ # Backlog do MVP — [Nome do Grupo]
 
 > Este arquivo é o resumo fixo do projeto.
 > O backlog semanal vivo fica nas **Issues** do repositório.
